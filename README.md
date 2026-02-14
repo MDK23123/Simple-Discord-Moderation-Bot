@@ -1,2 +1,2 @@
-# com-bot
+# Simple Discord Moderation Bot
 
